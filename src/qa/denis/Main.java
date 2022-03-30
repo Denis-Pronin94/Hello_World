@@ -6,4 +6,7 @@ public class Main {
         System.out.println("Hello, WORLD");
         System.out.println("Another line");
     }
+    
+    public void another() {
+        System.out.println("Another method");
 }
